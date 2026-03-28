@@ -1,0 +1,49 @@
+
+> auto-yousfi-showroom-hofs@0.1.0 lint
+> eslint
+
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\app\about\page.tsx
+   7:23  warning  'Truck' is defined but never used                                @typescript-eslint/no-unused-vars
+   7:30  warning  'Search' is defined but never used                               @typescript-eslint/no-unused-vars
+  46:60  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\app\contact\page.tsx
+  25:73  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\app\inventory\[id]\page.tsx
+  20:10  warning  'cn' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\app\inventory\page.tsx
+   4:10  warning  'motion' is defined but never used                               @typescript-eslint/no-unused-vars
+  46:91  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\components\home\Brands.tsx
+  4:8  warning  'Image' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\components\home\CtaBanner.tsx
+  4:10  warning  'motion' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\components\home\FeaturedCars.tsx
+  4:10  warning  'motion' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\components\home\Services.tsx
+  5:39  warning  'ShieldCheck' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\components\inventory\FilterBar.tsx
+  4:18  warning  'X' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\components\layout\Footer.tsx
+  4:10  warning  'cn' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\components\layout\Navbar.tsx
+  6:32  warning  'Phone' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\components\ui\CarCard.tsx
+  9:10  warning  'cn' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Sohail.BOUAZZA\Desktop\play_field\trainingField\antigravity\house-of-fools\auto-yousfi-showroom-hofs\src\store\useInventoryStore.ts
+  13:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 16 problems (4 errors, 12 warnings)
+
